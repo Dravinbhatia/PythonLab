@@ -4,4 +4,4 @@ while(n<=495):
     n+=5
     sum+= (n-1)
     print("Sum is: "+sum)
-print(sum)
+print("Total sum: "sum)
